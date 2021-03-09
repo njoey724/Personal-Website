@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+  }
+  
+  h1 {
+    color: red;
+    font-weight: 600;
+  }
+  
+  blockquote {
+    color: blue;
+    font-style: italic
+  }
+  
+  p, ul {
+    color: blueviolet;
+  }
